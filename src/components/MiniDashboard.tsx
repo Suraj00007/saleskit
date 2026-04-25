@@ -1,5 +1,6 @@
-import { TrendingUp, TrendingDown, Minus, ChevronDown, ChevronUp } from 'lucide-react'
+import _React from 'react'
 import { useState } from 'react'
+import { TrendingUp, TrendingDown, Minus, ChevronDown, ChevronUp } from 'lucide-react'
 import { projects, ownProject } from '../data/projects'
 import { personaWeights, scoreProject } from '../data/personas'
 import type { BuyerPersona } from '../types'
